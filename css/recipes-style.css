@@ -2,3 +2,45 @@
 body{
     font-family: 'Courier New', Arial, Helvetica, sans-serif;
 }
+
+h1{
+
+}
+
+.yellow {
+   
+    display: inline-block;
+    background-color: yellow;
+}
+
+.bold{
+    font-weight: 800;
+}
+
+.row{
+    list-style: none;
+    display: inline-block;
+    padding: 5px;
+}
+
+.div-inline{
+    display: inline-block;
+}
+
+.img-inline{
+    display: inline-block;
+    margin-top: 10px;
+}
+
+.right-border{
+    border-right: 2px solid red;
+}
+.middle{
+    width: max-content;
+    margin: auto;
+}
+
+*{
+    box-sizing: content-box;
+}
+
